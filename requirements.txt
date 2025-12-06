@@ -1,0 +1,16 @@
+# Core runtime (all stdlib; included here for completeness/readability)
+argparse
+json
+hashlib
+uuid
+random
+time
+
+# Optional: only needed for Python <3.10
+typing-extensions
+
+# Optional: development & tooling (recommended)
+black
+mypy
+pytest
+pytest-cov
